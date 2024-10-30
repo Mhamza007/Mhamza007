@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Muhammad Hamza
+
+👨‍💻 Mobile App Developer | Cybersecurity Enthusiast
+
+### About Me
+Software engineer with three years of experience in Android and Flutter development (Java, Kotlin, Dart), now advancing my cybersecurity skills to integrate robust security in mobile tech.
+
+### Projects
+- **American Express App** - Front-end lead for a digital banking app.
+- **Sindh School Monitoring System** - Streamlined educational monitoring.
+
+### Open Source Contributions
+Explore my pinned repositories below for open-source projects in mobile app security and development.
+
+---
+
