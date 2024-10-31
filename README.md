@@ -19,18 +19,18 @@ Here are some ideas to get you started:
 
 👨‍💻 Mobile App Developer | Cybersecurity Enthusiast
 
-### About Me
+### About Me 
 Software engineer with three years of experience in Android and Flutter development (Java, Kotlin, Dart), now advancing my cybersecurity skills to integrate robust security in mobile tech.
 
 ### Technical Skills
-- **Mobile App Development**: Android, Flutter
-- **Programming Languages**: Java, Kotlin, Dart, Python
-- **Cybersecurity**: Network Security, Network Administration, Internet Security, Operating Systems
-- **API Integration**: RESTful, SOAP
-- **Database Management**: Firebase, MySQL, SQLite
-- **Version Control**: GitHub, Bitbucket
-- **Web Development**: HTML, CSS, JavaScript, PHP
-- **Tools**: Trello, Jira, Microsoft Teams
+- 📱 **Mobile App Development**: Android, Flutter
+- 💻 **Programming Languages**: Java, Kotlin, Dart, Python
+- 🔒 **Cybersecurity**: Network Security, Network Administration, Internet Security
+- 🌐 **API Integration**: RESTful, SOAP
+- 🗄️ **Database Management**: Firebase, MySQL, SQLite
+- 🛠️ **Version Control**: GitHub, Bitbucket
+- 🌐 **Web Development**: HTML, CSS, JavaScript, PHP
+- 📊 **Tools**: Trello, Jira, Microsoft Teams
 
 ### Projects
 - **American Express App** - Front-end lead for a digital banking app.
